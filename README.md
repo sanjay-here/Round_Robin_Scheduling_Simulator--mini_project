@@ -1,4 +1,4 @@
-# 🎯 Round Robin Scheduling Simulator (GUI)
+# 🎯 Round Robin Scheduling Simulator (Desktop App)
 
 A Python-based GUI application to simulate the **Round Robin CPU Scheduling Algorithm**. This educational tool allows users to input multiple processes along with their arrival and burst times, choose a quantum time, and visualize the process execution timeline via a Gantt chart.
 
